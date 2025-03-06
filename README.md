@@ -1,6 +1,4 @@
 # BanknoteAuthentication
-# BBM409 Assignment 1 - Fall 2024
-
 ## Perceptron Learning Algorithm Implementation
 
 This project involves implementing the **Perceptron Learning Algorithm** to classify the **Banknote Authentication Dataset**. The dataset contains four features: **variance, skewness, kurtosis, and entropy**, with a binary classification target (authentic: `1`, fake: `0`).
